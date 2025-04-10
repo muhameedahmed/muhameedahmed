@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm MUHAMMED AHMED</h1>
-<h3 align="center">A passionate frontend developer from EGYPT</h3>
+<h3 align="center">A passionate Web Developer From EGYPT</h3>
 <img align="right" style="width:400px"
     src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
     alt="codeing">
